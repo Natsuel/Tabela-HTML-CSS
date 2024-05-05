@@ -1,0 +1,69 @@
+.tabela,tr,th,td {
+    border: 1px solid rgb(0, 0, 0);
+    width: 1200px;
+    height: 25px;
+    padding: 8px;
+    font-size: 25px;
+    margin: auto;
+    font-family: 'Roboto Condensed';
+}
+
+.tabela caption {
+    border: 1px solid rgb(0, 0, 0);
+    background-color: rgb(170, 220, 242);
+    font-size: 40px;
+    color: rgb(255, 255, 255);
+    font-family: 'Roboto Condensed';
+    text-decoration: underline;
+    font-weight: bolder;
+}
+
+.tabela .classes th {
+    color: rgb(255, 71, 71);
+    font-size: 26px;
+    font-weight: bolder;
+}
+
+.tabelas,th {
+    background-color: rgb(228, 233, 253);
+}
+
+.font-color-apple {
+    background-color: rgb(255, 217, 217);
+}
+
+.font-color-banana {
+    background-color: rgb(252, 254, 193);
+}
+
+.font-color-orange {
+    background-color: rgb(255, 236, 183);
+}
+
+.font-color-grape {
+    background-color: rgb(255, 227, 242);
+}
+
+.font-color-pineapple {
+    background-color: rgb(249, 252, 154);
+}
+
+.font-color-mango {
+    background-color: rgb(224, 255, 216);
+}
+
+.font-color-watermelon {
+    background-color: rgb(255, 191, 191);
+}
+
+.font-color-papaya {
+    background-color: rgb(255, 215, 159);
+}
+
+.font-color-avocado {
+    background-color: rgb(163, 255, 175);
+}
+
+.font-color-maracuja {
+    background-color: rgb(241, 255, 131);
+}
